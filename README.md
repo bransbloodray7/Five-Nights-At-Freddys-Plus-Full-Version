@@ -247,4 +247,4 @@ This repository serves as the official landing page for Five Nights at Freddy's 
 **Get the most recent version of Five Nights at Freddy's Plus today!**
 
 ---
-**Last updated:** 2026-10-09 23:43:51 UTC
+**Last updated:** 2026-10-10 03:27:53 UTC
